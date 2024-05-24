@@ -7,28 +7,25 @@
 <br/>
 
 <div id="badges">
-   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FShikhar97"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShikhar97&countColor=%2319a053" /></a>
+   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdsbhalla"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdsbhalla&label=VISITORS&countColor=%23263759" /></a>
 	<a href="https://www.linkedin.com/in/daljitsinghbhalla/" target="_blank">
 		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="mailto:dbhalla@asu.edu">
 		<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 	</a>
-<a href="https://shikhar97.github.io/" target="_blank">
-	<img height="100%" alt="Portfolio" src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=About.me&logoColor=white"/>
+<!-- <a href="https://shikhar97.github.io/" target="_blank">
+	<img height="100%" alt="Portfolio" src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=About.me&logoColor=white"/> -->
 </a>
 </div>
 
 <hr/>
-
-
-
 <p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN5cGc1MHRyODFzYW1zbmVrdGc3M2M3bDVzOHF6N2I3azF3c29jeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bs7JVM14t6ABSSgiAW/giphy.gif" width="220" height="200" alt="Work"/>
 </p>
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8B0000&background=FFD700&random=false&width=435&lines=Hi+there!++%F0%9F%91%8B++;I+am+Daljit+Singh+Bhalla.;CS+Grad+%7C+ASU+Alumni;+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8B0000&background=FFC800&random=false&width=300&lines=Hi+there!++%F0%9F%91%8B++;I+am+Daljit+Singh+Bhalla.;CS+Grad+%7C+ASU+Alumni;+Software+Engineer" alt="Typing SVG" />
 </p>
 
 
