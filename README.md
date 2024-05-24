@@ -22,11 +22,11 @@
 
 
 <p align=center>
-  <img src="https://media.giphy.com/gifs/wikitude-augmented-reality-penguin-linux-4Zgy9QqzWU8C3ugvCa" width="600" height="300" alt="Work"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBleTNpM3JmbmdpZTI1eXBxdDh0cDVtNHNkYngxNnEzdzJ4YTFvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="300" height="200" alt="Work"/>
 </p>
 
 <p align=center>
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=35&pause=1000&color=EB5E28&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there++%F0%9F%91%8B;I+am+Shikhar+Gupta" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=35&pause=1000&color=8F00FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there++%F0%9F%91%8B;I+am+Daljit Singh+Bhalla" alt="Typing SVG" />
 </p>
 
 
