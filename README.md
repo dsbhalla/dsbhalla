@@ -1,11 +1,12 @@
-<div>
-  <img alt="Logo" src="assets/db3.jpg" width="220" height = "220" />
+<div style="display: inline-block;">
+  <img class="left" alt="Logo" src="assets/db3.jpg" width="200" height="200" />
+  <img class="right" src="assets/ASU alum.jpg" width="200" height="200" />
 </div>
 
 <br/>
 
-<!-- <div id="badges">
-   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FShikhar97"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShikhar97&countColor=%2319a053" /></a>
+<div id="badges">
+   <!-- <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FShikhar97"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShikhar97&countColor=%2319a053" /></a>
 	<a href="https://www.linkedin.com/in/daljitsinghbhalla/" target="_blank">
 		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
@@ -14,8 +15,8 @@
 	</a>
 <a href="https://shikhar97.github.io/" target="_blank">
 	<img height="100%" alt="Portfolio" src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-</div> -->
+</a> -->
+</div>
 
 <hr/>
 
