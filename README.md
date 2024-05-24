@@ -1,7 +1,7 @@
 <div style="display: inline-block;">
   <img class="center" alt="Logo" src="https://scalebranding.com/wp-content/uploads/2021/07/db-fem-page001.jpg" width="230" height="200" />
   <img class="center" src="assets/ASU alum.jpg" width="200" height="200" />
-  <img class ="center" src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN5cGc1MHRyODFzYW1zbmVrdGc3M2M3bDVzOHF6N2I3azF3c29jeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bs7JVM14t6ABSSgiAW/giphy.gif">
+
 </div>
 
 <br/>
@@ -24,16 +24,12 @@
 
 
 <p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBleTNpM3JmbmdpZTI1eXBxdDh0cDVtNHNkYngxNnEzdzJ4YTFvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="300" height="200" alt="Work"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN5cGc1MHRyODFzYW1zbmVrdGc3M2M3bDVzOHF6N2I3azF3c29jeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bs7JVM14t6ABSSgiAW/giphy.gif" width="220" height="200" alt="Work"/>
 </p>
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=35&pause=1000&color=8F00FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there++%F0%9F%91%8B;I+am+Daljit Singh+Bhalla" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8B0000&background=FFD700&random=false&width=435&lines=Hi+there!++%F0%9F%91%8B++;I+am+Daljit+Singh+Bhalla.;CS+Grad+%7C+ASU+Alumni;+Software+Engineer" alt="Typing SVG" />
 </p>
-
-
----
-
 
 
 ### :man_technologist: About Me :
