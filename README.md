@@ -25,7 +25,7 @@
 </p>
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8B0000&background=FFC800&random=false&width=300&lines=Hi+there!++%F0%9F%91%8B++;I+am+Daljit+Singh+Bhalla.;CS+Grad+%7C+ASU+Alumni;+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8B0000&random=false&width=350&lines=Hi+there!++%F0%9F%91%8B++;I+am+Daljit+Singh+Bhalla.;CS+Grad+%7C+ASU+Alumni;+Software+Engineer" alt="Typing SVG" />
 </p>
 
 
