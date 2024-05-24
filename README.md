@@ -33,7 +33,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from United States.
 
 - :telescope: I am currently pursuing a Master's in Computer Science at ASU.
-- :zap: I bring over 3 years of experience specializing in full-stack development, CI/CD, cloud infrastructure, and automation. My focus lies in designing, implementing, and deploying scalable machine learning models.
+- :zap: I bring over 4 years of experience specializing in full-stack development, CI/CD, cloud infrastructure, and automation. My focus lies in designing, implementing, and deploying scalable machine learning models.
 - :seedling: Creativity and innovation drive my problem-solving approach, as I enjoy building products that positively impact society.
 
 ---
@@ -53,7 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>
 &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Next.js" alt="Next.js" width="80" height="80"/>
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="80" height="80"/>
 &nbsp;
