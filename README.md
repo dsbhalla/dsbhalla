@@ -1,6 +1,6 @@
 <div style="display: inline-block;">
   <img class="center" alt="Logo" src="https://scalebranding.com/wp-content/uploads/2021/07/db-fem-page001.jpg" width="230" height="200" />
-  <img class="center" src="assets/ASU alum.jpg" width="200" height="200" />
+  &nbsp; nbsp;<img class="center" src="assets/ASU alum.jpg" width="200" height="200" />
 
 </div>
 
@@ -75,8 +75,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="D3.js" alt="D3.js" width="80" height="80"/>
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>
-&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>
 &nbsp;
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>
