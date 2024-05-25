@@ -32,8 +32,8 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from United States.
 
-- :telescope: I am currently pursuing a Master's in Computer Science at ASU.
-- :zap: I bring over 4 years of experience specializing in full-stack development, CI/CD, cloud infrastructure, and automation. My focus lies in designing, implementing, and deploying scalable machine learning models.
+- :telescope: I recently graduated with Master's in Computer Science at ASU.
+- :zap: I bring over 4 years of experience specializing in Mobile App developement, full-stack development, CI/CD, cloud infrastructure, and automation. My focus lies in designing, implementing, and deploying scalable machine learning models.
 - :seedling: Creativity and innovation drive my problem-solving approach, as I enjoy building products that positively impact society.
 
 ---
@@ -55,6 +55,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Next.js" alt="Next.js" width="80" height="80"/>
 &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Next.js" alt="Next.js" width="80" height="80"/>
+&nbsp;
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="80" height="80"/>
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>
@@ -65,13 +68,24 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="80" height="80"/>
 &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Material UI" alt="Material UI" width="80" height="80"/>
+&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Next.js" alt="Next.js" width="80" height="80"/>
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="D3.js" alt="D3.js" width="80" height="80"/>
 &nbsp;
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>
 &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>
+&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>
+&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>
+&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>
+&nbsp;
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="80" height="80"/>
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="80" height="80"/>
@@ -85,8 +99,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 ### :fire: Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Shikhar97&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Shikhar97&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhar97&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Shikhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shikhar97&show_icons=true&theme=tokyonight)
+![Shikhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shikhar97&show_icons=true&theme=tokyonight) -->
