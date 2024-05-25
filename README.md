@@ -1,6 +1,6 @@
 <div style="display: inline-block;">
   <img class="center" alt="Logo" src="https://scalebranding.com/wp-content/uploads/2021/07/db-fem-page001.jpg" width="230" height="200" />
-  &nbsp; nbsp;<img class="center" src="assets/ASU alum.jpg" width="200" height="200" />
+  &nbsp;<img class="center" src="assets/ASU alum.jpg" width="200" height="200" />
 
 </div>
 
