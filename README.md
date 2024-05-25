@@ -79,11 +79,20 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>
 &nbsp;
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>
 &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook"  alt="MySQL" width="80" height="80"/>
 &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/pulsar/pulsar-original.svg" title="Apache Pulsar"  alt="Apache pulsar" width="80" height="80"/>
+&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven"  alt="MySQL" width="80" height="80"/>
+&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres"  alt="MySQL" width="80" height="80"/>
+&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="MySQL" width="80" height="80"/>
 &nbsp;
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="80" height="80"/>
